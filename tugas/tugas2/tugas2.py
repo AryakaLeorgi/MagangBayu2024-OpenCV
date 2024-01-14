@@ -38,7 +38,7 @@ def process_image(image_path):
     cv2.destroyAllWindows()
 
 # Specify the image path
-image_path = "magang bayucaraka/tugas cv/tugas2.jpg"
+image_path = "tugas/tugas2/tugas2.jpg"
 
 # Call the function with the image path
 process_image(image_path)
