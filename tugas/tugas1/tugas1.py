@@ -30,7 +30,7 @@ def detect_green_objects(image_path):
     cv2.destroyAllWindows()
 
 # Specify the image path
-image_path = 'magang bayucaraka/tugas cv/tugas1.png'
+image_path = 'tugas/tugas1/tugas1.py'
 
 # Call the function to detect green objects in the specified image
 detect_green_objects(image_path)
