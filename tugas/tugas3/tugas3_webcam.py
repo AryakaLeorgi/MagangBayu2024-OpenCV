@@ -13,7 +13,7 @@ print(opt)
 # Load YOLO model
 print("importing YOLO")
 from ultralytics import YOLO
-model = YOLO("tugas_bayucaraka/best.pt")
+model = YOLO("tugas/tugas3/best.ptt")
 if opt.useCuda:
     print("sending model to cuda")
     model.to('cuda')
